@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-happy-landscaping-landscaping-lawncare-las-vegas-nv.dream-surge.com/sitemap-index.xml

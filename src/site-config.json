@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Happy Landscaping - Landscaping | Lawncare Las Vegas NV",
+    "phone": "+17026127824",
+    "category": "landscaping company",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Vegas Landscaping Done Right",
+      "heroSubline": "Happy Landscaping conquers the desert heat. Expert design, installation, and maintenance for resilient landscapes.",
+      "aboutTitle": "Your Desert Landscaping Experts",
+      "aboutText": [
+        "Happy Landscaping started with a simple goal: to bring vibrant, sustainable landscapes to the harsh Vegas environment. We saw too many yards struggling under the relentless sun and decided to do something about it.",
+        "Our approach is built on understanding the unique challenges of the Mojave Desert. We combine cutting-edge techniques with proven methods to create landscapes that thrive, conserve water, and enhance your property's value. We believe in open communication, meticulous planning, and delivering results that exceed expectations.",
+        "We're deeply invested in the Las Vegas community. We source local materials whenever possible, support local charities, and strive to be a responsible environmental steward. Our commitment extends beyond landscaping; we're building a greener, more beautiful Vegas for everyone."
+      ],
+      "valueProps": [
+        {
+          "title": "Desert-Smart Design",
+          "description": "Water-wise landscaping that thrives in the Vegas heat, reducing your water bill and environmental impact."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise installation, using quality materials built to withstand the desert climate."
+        },
+        {
+          "title": "Comprehensive Maintenance",
+          "description": "From lawn care to irrigation, we keep your landscape looking its best year-round, protecting your investment."
+        },
+        {
+          "title": "Personalized Service",
+          "description": "We listen to your vision and tailor our services to meet your specific needs and budget."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space",
+      "ctaSubline": "Get a free quote and discover the potential of your landscape. Call Happy Landscaping today!"
+    },
+    "services": [
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design",
+        "shortDescription": "Innovative landscape designs tailored for the unique Las Vegas climate.",
+        "description": "Crafting a landscape that thrives in the Las Vegas environment requires more than just planting pretty flowers. It demands a deep understanding of the desert ecosystem, water conservation, and the specific needs of local flora. Our landscape design service begins with a thorough site assessment, taking into account sun exposure, soil composition, and existing vegetation. We then work closely with you to understand your vision, lifestyle, and budget. \n\nWe specialize in creating sustainable, water-wise designs that not only look stunning but also minimize water consumption and maintenance. This includes incorporating drought-tolerant plants, efficient irrigation systems, and strategic hardscaping to reduce water runoff and erosion. Whether you're looking for a modern desert oasis, a lush tropical escape, or a functional outdoor living space, our team of experienced designers will bring your ideas to life. We provide detailed plans, 3D renderings, and material selections to ensure you're completely satisfied with the design before we begin installation.\n\nOur expertise extends to all aspects of landscape design, including plant selection, hardscape design (patios, walkways, retaining walls), irrigation design, lighting design, and water feature integration. We're committed to creating landscapes that are not only beautiful but also environmentally responsible and sustainable for years to come.",
+        "process": [
+          "Step 1: Initial Consultation & Site Assessment",
+          "Step 2: Concept Development & Design Presentation",
+          "Step 3: Design Refinement & Material Selection",
+          "Step 4: Final Design Approval & Project Planning"
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Reduced Water Consumption",
+          "Enhanced Outdoor Living Space",
+          "Sustainable and Environmentally Friendly Design"
+        ],
+        "faq": [
+          {
+            "question": "What types of plants are best for Las Vegas landscapes?",
+            "answer": "We recommend drought-tolerant plants like succulents, cacti, desert shrubs, and native grasses that thrive in the dry climate and require minimal watering."
+          },
+          {
+            "question": "How can I reduce my water bill with landscaping?",
+            "answer": "Implementing water-wise design principles, such as using efficient irrigation systems and drought-tolerant plants, can significantly reduce your water consumption and lower your monthly bill."
+          },
+          {
+            "question": "Do you offer 3D renderings of your landscape designs?",
+            "answer": "Yes, we provide detailed 3D renderings to help you visualize the final result and make informed decisions about your landscape design."
+          }
+        ]
+      },
+      {
+        "slug": "lawn-care",
+        "name": "Lawn Care",
+        "shortDescription": "Expert lawn care services to keep your grass green and healthy in the desert heat.",
+        "description": "Maintaining a healthy lawn in Las Vegas is a constant battle against the elements. The intense sun, dry air, and alkaline soil create a challenging environment for even the most resilient grasses. Our lawn care service is designed to provide your lawn with the nutrients, water, and protection it needs to thrive. We start with a soil analysis to determine the specific needs of your lawn. Based on the results, we develop a customized treatment plan that includes fertilization, weed control, pest control, and aeration. \n\nWe use only the highest quality products and equipment to ensure optimal results. Our fertilization programs are designed to provide your lawn with the essential nutrients it needs to grow strong and healthy, while our weed control treatments target unwanted weeds without harming your grass. We also offer pest control services to protect your lawn from damaging insects. Aeration is a critical component of our lawn care service, as it helps to improve soil drainage and reduce compaction, allowing water and nutrients to reach the roots more effectively. We also offer overseeding services to thicken your lawn and fill in bare spots.\n\nOur lawn care professionals are experienced in working with all types of grasses commonly found in Las Vegas, including Bermuda, Fescue, and Ryegrass. We understand the unique challenges of maintaining a lawn in the desert environment and are committed to providing you with the best possible service. We also offer seasonal lawn care services to prepare your lawn for the changing weather conditions, including winterization and spring cleanup.",
+        "process": [
+          "Step 1: Soil Analysis & Lawn Assessment",
+          "Step 2: Customized Treatment Plan Development",
+          "Step 3: Fertilization, Weed Control & Pest Control",
+          "Step 4: Regular Monitoring & Adjustments"
+        ],
+        "benefits": [
+          "Healthier, Greener Lawn",
+          "Reduced Weed and Pest Problems",
+          "Improved Soil Health",
+          "Increased Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I fertilize my lawn in Las Vegas?",
+            "answer": "We recommend fertilizing your lawn every 6-8 weeks during the growing season (spring and summer) to provide it with the nutrients it needs to thrive."
+          },
+          {
+            "question": "What is aeration and why is it important?",
+            "answer": "Aeration involves creating small holes in the soil to improve drainage and reduce compaction, allowing water and nutrients to reach the roots more effectively. It's essential for maintaining a healthy lawn in Las Vegas's compacted soils."
+          },
+          {
+            "question": "How can I prevent weeds from growing in my lawn?",
+            "answer": "Regular fertilization, proper watering, and timely weed control treatments can help prevent weeds from growing in your lawn. We also recommend using pre-emergent herbicides to prevent weed seeds from germinating."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-services",
+        "name": "Irrigation Services",
+        "shortDescription": "Efficient irrigation solutions for water conservation in your Las Vegas landscape.",
+        "description": "In the arid climate of Las Vegas, efficient irrigation is not just a luxury, it's a necessity. Our irrigation services are designed to help you conserve water, reduce your water bill, and ensure that your landscape receives the optimal amount of hydration. We offer a full range of irrigation services, including installation, repair, and maintenance. Our experienced technicians can design and install a custom irrigation system that meets the specific needs of your landscape. We use only the highest quality components and employ the latest technology to ensure optimal performance and water efficiency.\n\nWe specialize in drip irrigation, which delivers water directly to the roots of plants, minimizing water loss through evaporation. We also offer sprinkler system installation and repair, using water-efficient nozzles and controllers. Our irrigation maintenance service includes regular inspections, adjustments, and repairs to ensure that your system is running smoothly and efficiently. We can also help you program your irrigation controller to optimize watering schedules based on weather conditions and plant needs. Our team is skilled in diagnosing and repairing all types of irrigation problems, including leaks, broken sprinkler heads, and malfunctioning controllers.\n\nWe understand the importance of water conservation in Las Vegas and are committed to providing our customers with the most efficient and effective irrigation solutions. Whether you're looking to install a new irrigation system, repair an existing one, or simply optimize your watering schedule, we have the expertise and experience to help you achieve your goals. We also offer backflow testing and certification services to ensure that your irrigation system is compliant with local regulations.",
+        "process": [
+          "Step 1: Irrigation System Design & Planning",
+          "Step 2: Installation of Water-Efficient Components",
+          "Step 3: System Programming & Optimization",
+          "Step 4: Regular Maintenance & Repair Services"
+        ],
+        "benefits": [
+          "Reduced Water Consumption",
+          "Lower Water Bills",
+          "Healthier, More Vibrant Landscape",
+          "Environmentally Responsible Water Management"
+        ],
+        "faq": [
+          {
+            "question": "What is drip irrigation and how does it work?",
+            "answer": "Drip irrigation delivers water directly to the roots of plants through a network of tubes and emitters, minimizing water loss through evaporation. It's a highly efficient way to water your landscape in Las Vegas."
+          },
+          {
+            "question": "How often should I have my irrigation system inspected?",
+            "answer": "We recommend having your irrigation system inspected at least twice a year, in the spring and fall, to ensure that it's running smoothly and efficiently."
+          },
+          {
+            "question": "Can you help me program my irrigation controller?",
+            "answer": "Yes, we can help you program your irrigation controller to optimize watering schedules based on weather conditions, plant needs, and local watering restrictions."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Durable and stylish hardscaping solutions to enhance your outdoor living space.",
+        "description": "Hardscaping is the foundation of any well-designed landscape. It provides structure, functionality, and aesthetic appeal to your outdoor space. In Las Vegas, where the climate is harsh and the soil is alkaline, durable and well-designed hardscaping is essential for creating a landscape that can withstand the elements. Our hardscaping service includes the design and installation of patios, walkways, retaining walls, fire pits, and other outdoor features. We use only the highest quality materials and employ skilled craftsmen to ensure that your hardscaping is built to last.\n\nWe work closely with you to understand your vision and create a design that complements your home and lifestyle. Our experienced designers can help you choose the right materials, colors, and textures to create a cohesive and visually appealing outdoor space. We specialize in creating outdoor living spaces that are both functional and beautiful, providing you with a comfortable and inviting place to relax and entertain. Whether you're looking for a simple patio, a complex retaining wall system, or a custom-built fire pit, we have the expertise and experience to bring your ideas to life.\n\nOur hardscaping services also include the installation of outdoor lighting, which can enhance the beauty and functionality of your outdoor space. We can design and install a custom lighting system that highlights your hardscaping features and creates a welcoming ambiance. We are committed to providing our customers with the highest quality hardscaping services at competitive prices. We also offer a warranty on all of our hardscaping installations to ensure your complete satisfaction.",
+        "process": [
+          "Step 1: Design Consultation & Site Evaluation",
+          "Step 2: Material Selection & Budget Planning",
+          "Step 3: Professional Installation & Construction",
+          "Step 4: Final Inspection & Project Completion"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Living Space",
+          "Increased Property Value",
+          "Durable and Long-Lasting Features",
+          "Customized Design to Suit Your Style"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials do you use for hardscaping?",
+            "answer": "We use a variety of high-quality materials, including concrete pavers, natural stone, brick, and composite decking. We can help you choose the right materials based on your budget, style, and durability requirements."
+          },
+          {
+            "question": "How long does it take to install a patio?",
+            "answer": "The installation time for a patio depends on the size and complexity of the project. A simple patio can typically be installed in 1-2 days, while a more complex patio with multiple features may take several days or weeks."
+          },
+          {
+            "question": "Do you offer a warranty on your hardscaping installations?",
+            "answer": "Yes, we offer a warranty on all of our hardscaping installations to ensure your complete satisfaction. The length of the warranty varies depending on the materials and scope of the project."
+          }
+        ]
+      },
+      {
+        "slug": "desert-landscaping",
+        "name": "Desert Landscaping",
+        "shortDescription": "Sustainable and low-maintenance landscaping designed for the Las Vegas desert.",
+        "description": "Embrace the natural beauty of the Mojave Desert with our specialized desert landscaping services. We understand the unique challenges and opportunities presented by the Las Vegas environment. Our desert landscaping designs prioritize water conservation, low maintenance, and the use of native and drought-tolerant plants. We create landscapes that are not only visually appealing but also environmentally responsible and sustainable.\n\nOur desert landscaping service includes the design and installation of rock gardens, cactus gardens, succulent gardens, and other desert-themed landscapes. We carefully select plants that thrive in the dry climate and require minimal watering. We also incorporate hardscaping elements, such as boulders, gravel, and decomposed granite, to create a natural and authentic desert look. Our experienced designers can help you create a landscape that blends seamlessly with the surrounding environment and reflects your personal style.\n\nWe are committed to providing our customers with the highest quality desert landscaping services at competitive prices. We also offer ongoing maintenance services to ensure that your desert landscape continues to thrive for years to come. From weed control to pruning to irrigation adjustments, we can handle all of your desert landscaping needs.",
+        "process": [
+          "Step 1: Site Analysis & Design Consultation",
+          "Step 2: Plant Selection & Material Sourcing",
+          "Step 3: Installation of Desert-Adapted Plants",
+          "Step 4: Mulching and Rock Placement"
+        ],
+        "benefits": [
+          "Water Conservation",
+          "Low Maintenance",
+          "Environmentally Friendly",
+          "Authentic Desert Aesthetic"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of desert landscaping?",
+            "answer": "Desert landscaping reduces water consumption, requires less maintenance, and is more environmentally friendly than traditional landscaping. It also creates a unique and beautiful outdoor space that reflects the natural beauty of the desert."
+          },
+          {
+            "question": "What types of plants are used in desert landscaping?",
+            "answer": "Desert landscaping uses a variety of drought-tolerant plants, including cacti, succulents, native shrubs, and desert wildflowers. These plants are adapted to the dry climate and require minimal watering."
+          },
+          {
+            "question": "How can I maintain my desert landscape?",
+            "answer": "Desert landscapes require minimal maintenance. Regular weed control, occasional pruning, and infrequent watering are typically all that is needed to keep your desert landscape looking its best."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-lighting",
+        "name": "Outdoor Lighting",
+        "shortDescription": "Enhance your property with beautiful and functional outdoor lighting solutions.",
+        "description": "Extend the usability and beauty of your outdoor space with our professional outdoor lighting services. We design and install custom lighting systems that enhance safety, security, and ambiance. Whether you're looking to illuminate your walkways, highlight your landscaping, or create a cozy outdoor living space, we have the expertise to bring your vision to life. Our experienced designers will work with you to create a lighting plan that meets your specific needs and budget.\n\nWe offer a wide range of outdoor lighting options, including pathway lighting, landscape lighting, accent lighting, and security lighting. We use only high-quality fixtures and energy-efficient LED bulbs to ensure long-lasting performance and low operating costs. Our outdoor lighting installations are designed to withstand the harsh Las Vegas climate, including extreme heat, intense sunlight, and occasional dust storms. We also offer maintenance and repair services to keep your outdoor lighting system running smoothly for years to come.\n\nFrom initial design to final installation, we are committed to providing our customers with exceptional service and quality workmanship. We take pride in creating outdoor lighting systems that are both beautiful and functional, enhancing the value and enjoyment of your property.",
+        "process": [
+          "Step 1: Design Consultation & Site Assessment",
+          "Step 2: Lighting Plan Development & Fixture Selection",
+          "Step 3: Professional Installation & Wiring",
+          "Step 4: System Testing & Adjustments"
+        ],
+        "benefits": [
+          "Increased Safety and Security",
+          "Enhanced Curb Appeal",
+          "Extended Outdoor Living Space",
+          "Energy Efficiency and Cost Savings"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of outdoor lighting?",
+            "answer": "Outdoor lighting increases safety, security, and curb appeal. It also allows you to enjoy your outdoor space after dark and can enhance the beauty of your landscaping."
+          },
+          {
+            "question": "What types of outdoor lighting are available?",
+            "answer": "We offer a wide range of outdoor lighting options, including pathway lighting, landscape lighting, accent lighting, and security lighting. We can help you choose the right lighting for your specific needs and preferences."
+          },
+          {
+            "question": "How much does outdoor lighting cost?",
+            "answer": "The cost of outdoor lighting depends on the size and complexity of the project. We offer free consultations and estimates to help you plan your outdoor lighting project."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Henderson",
+        "slug": "henderson-nv",
+        "state": "NV",
+        "content": "Happy Landscaping is proud to offer our full range of landscaping and lawn care services to the residents and businesses of Henderson, Nevada. We understand the unique challenges of maintaining beautiful outdoor spaces in the desert climate, especially with Henderson's master-planned communities and the extreme summer heat. From lawn maintenance and irrigation to landscape design and hardscaping, we have the expertise to keep your property looking its best. \n\nWe specialize in creating drought-tolerant landscapes that thrive in the Henderson environment. Whether you're looking to update your existing landscape or create a brand new outdoor oasis, our team will work with you to design a space that meets your needs and fits your budget. We also offer regular lawn care services to keep your grass green and healthy throughout the year.",
+        "localContext": "Henderson, characterized by its master-planned communities developed from the 1990s through the 2020s, experiences extreme summer heat that often exceeds 115°F.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "North Las Vegas",
+        "slug": "north-las-vegas-nv",
+        "state": "NV",
+        "content": "Happy Landscaping provides top-quality landscaping and lawn care services to the growing community of North Las Vegas. We understand that homeowners and businesses in North Las Vegas value affordability and quality, especially when it comes to newer construction properties. Our services are tailored to meet the specific needs of this area, ensuring that your landscaping enhances your property's value and curb appeal.\n\nFrom regular lawn maintenance to complete landscape design and installation, we can help you create and maintain a beautiful outdoor space. We are also experienced in drought-tolerant landscaping solutions, which are essential for conserving water and thriving in the harsh desert climate. We offer affordable solutions to keep your yard looking its best.",
+        "localContext": "North Las Vegas, known for its affordable newer construction, endures extreme summer heat that can exceed 115°F, requiring specialized landscaping solutions.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Sunrise Manor",
+          "Nellis AFB"
+        ]
+      },
+      {
+        "city": "Summerlin",
+        "slug": "summerlin-nv",
+        "state": "NV",
+        "content": "Happy Landscaping is dedicated to providing exceptional landscaping and lawn care services to the upscale community of Summerlin, Nevada. We understand the importance of maintaining pristine landscapes in this meticulously planned area. Our team is committed to delivering high-quality services that enhance the beauty and value of your property.\n\nWe offer a wide range of services, including landscape design, installation, and maintenance. We specialize in creating custom landscapes that reflect your personal style and complement the architectural details of your home. We also offer regular lawn care services to keep your lawn healthy and vibrant throughout the year. We utilize the best equipment and techniques to keep your landscape looking its best.",
+        "localContext": "Summerlin, an upscale planned community developed from the 1990s through the 2020s, faces extreme summer heat exceeding 115°F, necessitating specialized landscaping approaches.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Spring Valley"
+        ]
+      },
+      {
+        "city": "Las Vegas",
+        "slug": "las-vegas-nv",
+        "state": "NV",
+        "content": "Happy Landscaping is proud to serve the heart of Las Vegas, providing comprehensive landscaping and lawn care solutions. We understand the diverse needs of Las Vegas residents and businesses, from maintaining lush lawns to creating stunning desert landscapes. Our team is committed to delivering exceptional service and creating beautiful outdoor spaces.\n\nWe offer a wide range of services, including lawn maintenance, landscape design, irrigation, and hardscaping. We are experienced in working with all types of properties, from small residential yards to large commercial properties. We are dedicated to providing our clients with the highest quality of service and ensuring their complete satisfaction.",
+        "localContext": "Las Vegas experiences extreme summer heat that can exceed 115°F, requiring careful consideration for plant selection and irrigation in landscaping projects.",
+        "nearbyAreas": [
+          "Paradise",
+          "Spring Valley",
+          "Henderson"
+        ]
+      },
+      {
+        "city": "Paradise",
+        "slug": "paradise-nv",
+        "state": "NV",
+        "content": "Happy Landscaping proudly serves the Paradise, Nevada area, providing expert landscaping and lawn care services to residential and commercial properties alike. As a bustling area surrounding the Las Vegas Strip, Paradise requires landscaping solutions that are both aesthetically pleasing and resilient to the desert climate. We offer comprehensive services to ensure your outdoor space thrives.\n\nOur services include landscape design, installation, maintenance, irrigation system management, and hardscaping. We understand the importance of creating inviting and sustainable landscapes that enhance the overall appeal of your property. Whether you're looking to revamp your existing landscape or start from scratch, we're here to help you achieve your vision.",
+        "localContext": "Paradise, home to the Las Vegas Strip, experiences extreme summer heat, necessitating drought-tolerant landscaping solutions and efficient irrigation systems.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Winchester",
+          "Spring Valley"
+        ]
+      },
+      {
+        "city": "Spring Valley",
+        "slug": "spring-valley-nv",
+        "state": "NV",
+        "content": "Happy Landscaping extends our services to the vibrant community of Spring Valley, Nevada, offering tailored landscaping and lawn care solutions to meet the unique needs of this area. Spring Valley is known for its diverse residential neighborhoods and commercial establishments, and we are dedicated to providing services that enhance its beauty and sustainability.\n\nWe offer a wide range of services, including landscape design, installation, maintenance, irrigation, and hardscaping. Our team works closely with clients to create custom landscapes that reflect their personal style and preferences while also being water-wise and environmentally friendly. We strive to exceed expectations with every project we undertake.",
+        "localContext": "Spring Valley, a diverse residential and commercial area, experiences the same extreme summer heat as the rest of the Las Vegas Valley, requiring drought-resistant landscaping practices.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Summerlin"
+        ]
+      },
+      {
+        "city": "Sunrise Manor",
+        "slug": "sunrise-manor-nv",
+        "state": "NV",
+        "content": "Happy Landscaping is pleased to offer our landscaping and lawn care expertise to the residents and businesses of Sunrise Manor, Nevada. We recognize the importance of well-maintained outdoor spaces in enhancing the quality of life in this vibrant community. Our services are designed to meet the diverse needs of Sunrise Manor's residents.\n\nWe provide a comprehensive range of services, including landscape design, installation, maintenance, irrigation, and hardscaping. Our team is committed to creating and maintaining beautiful, sustainable landscapes that thrive in the desert climate. We work closely with our clients to ensure their vision is realized and their expectations are exceeded.",
+        "localContext": "Sunrise Manor, a large unincorporated town, experiences the extreme summer heat characteristic of the Las Vegas area, necessitating careful plant selection and water management.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "North Las Vegas",
+          "Nellis AFB"
+        ]
+      },
+      {
+        "city": "Enterprise",
+        "slug": "enterprise-nv",
+        "state": "NV",
+        "content": "Happy Landscaping is dedicated to providing top-notch landscaping and lawn care services to the growing community of Enterprise, Nevada. As a rapidly developing area, Enterprise offers a mix of residential and commercial properties, and we are committed to helping our clients create and maintain beautiful outdoor spaces that enhance their property's value and appeal.\n\nOur services include landscape design, installation, maintenance, irrigation, and hardscaping. We understand the importance of creating sustainable landscapes that thrive in the desert climate and conserve water. We work closely with our clients to develop customized solutions that meet their specific needs and preferences.",
+        "localContext": "Enterprise, a rapidly growing area, experiences the extreme summer heat common in the Las Vegas Valley, requiring careful planning for drought-tolerant landscapes.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Henderson",
+          "Paradise"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Lawn Care",
+        "text": "Happy Landscaping transformed my patchy, weed-ridden lawn into a lush green carpet! Their lawn care service is top-notch, and the team is always professional and reliable. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Irrigation Repair",
+        "text": "My sprinkler system was a mess, with leaks and broken heads everywhere. Happy Landscaping came out quickly and fixed everything efficiently. They saved me a ton on my water bill!",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Landscape Design",
+        "text": "We wanted a desert-friendly landscape that was both beautiful and low-maintenance. Happy Landscaping delivered exactly that! Their design team was creative and knowledgeable, and the installation was flawless.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Hardscaping",
+        "text": "Happy Landscaping built a beautiful patio for us. The quality of the work is exceptional, and the crew was always professional and courteous. We couldn't be happier with the result!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Maria G.",
+        "rating": 4,
+        "service": "Outdoor Lighting",
+        "text": "The outdoor lighting Happy Landscaping installed really enhanced the look of our home at night. We feel safer, and it's great for entertaining. Minor adjustments needed afterward, but they were quick to respond.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Desert Landscaping",
+        "text": "We recently moved to Vegas and had no idea how to landscape in the desert. Happy Landscaping created a stunning, water-wise landscape that is the envy of the neighborhood. Highly recommend!",
+        "date": "2025-01-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Happy Landscaping | Las Vegas Landscapers",
+        "description": "Expert landscaping in Las Vegas, NV. Design, lawn care, irrigation, desert landscaping. Get a free quote today!"
+      },
+      "about": {
+        "title": "About Happy Landscaping | Las Vegas, NV",
+        "description": "Learn about Happy Landscaping's commitment to sustainable landscaping and exceptional service in Las Vegas, Nevada."
+      },
+      "services": {
+        "title": "Las Vegas Landscaping Services | Happy Landscaping",
+        "description": "Comprehensive landscaping services in Las Vegas, NV. Lawn care, irrigation, hardscaping, landscape design, and more."
+      },
+      "contact": {
+        "title": "Contact Happy Landscaping | Las Vegas, NV",
+        "description": "Contact Happy Landscaping for a free quote on your next landscaping project in Las Vegas. Call +17026127824."
+      },
+      "reviews": {
+        "title": "Happy Landscaping Reviews | Las Vegas, NV",
+        "description": "Read what our satisfied customers are saying about Happy Landscaping's services in Las Vegas, Nevada. See our 5-star reviews."
+      },
+      "service-areas": {
+        "title": "Las Vegas Landscaping Service Areas",
+        "description": "Happy Landscaping provides services in Las Vegas, Henderson, North Las Vegas, and Summerlin. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "landscape-design": "/images/service-landscape-design.webp",
+      "lawn-care": "/images/service-lawn-care.webp",
+      "irrigation-services": "/images/service-irrigation-services.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "desert-landscaping": "/images/service-desert-landscaping.webp",
+      "outdoor-lighting": "/images/service-outdoor-lighting.webp"
+    },
+    "servicesResponsive": {
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lawn-care": {
+        "src": "/images/service-lawn-care.webp",
+        "srcset": "/images/service-lawn-care-400w.webp 400w, /images/service-lawn-care-800w.webp 800w, /images/service-lawn-care-1200w.webp 1200w, /images/service-lawn-care.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-services": {
+        "src": "/images/service-irrigation-services.webp",
+        "srcset": "/images/service-irrigation-services-400w.webp 400w, /images/service-irrigation-services-800w.webp 800w, /images/service-irrigation-services-1200w.webp 1200w, /images/service-irrigation-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "desert-landscaping": {
+        "src": "/images/service-desert-landscaping.webp",
+        "srcset": "/images/service-desert-landscaping-400w.webp 400w, /images/service-desert-landscaping-800w.webp 800w, /images/service-desert-landscaping-1200w.webp 1200w, /images/service-desert-landscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-lighting": {
+        "src": "/images/service-outdoor-lighting.webp",
+        "srcset": "/images/service-outdoor-lighting-400w.webp 400w, /images/service-outdoor-lighting-800w.webp 800w, /images/service-outdoor-lighting-1200w.webp 1200w, /images/service-outdoor-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
